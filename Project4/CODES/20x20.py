@@ -7,7 +7,7 @@ sns.set_style('white')
 sns.set_style('ticks')
 sns.set_context('talk')
 
-MC_cycles = 1000
+MC_cycles = 100000
 num_spins = 20
 Temp = [1.0, 2.4]
 ordered = False
